@@ -10,7 +10,6 @@
 - 📫 Reach me at: [sakshi_2312res563@iitp.ac.in](mailto:sakshi_2312res563@iitp.ac.in)
 - ⚡ Fun Fact: **It's GPT era!**
 
----
 
 <h3 align="left">🌐 Connect with me:</h3>
 <p align="left">
@@ -19,7 +18,6 @@
 <a href="https://leetcode.com/u/Sak_shi__/" target="blank"><img align="center" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="leetcode"/></a>
 </p>
 
----
 
 <h3 align="left">💻 Languages and Tools:</h3>
 <p align="left">
@@ -34,7 +32,6 @@
 
 </p>
 
----
 
 <h3 align="left">📊 GitHub Stats:</h3>
 
@@ -42,6 +39,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=272006Sakshi&show_icons=true&theme=tokyonight" alt="sakshi-stats"/></p>
 
----
 
 
