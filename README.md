@@ -1,8 +1,8 @@
 <h1 align="center">Hey 👋, I'm Sakshi Kumari</h1>
 
 <p align="center">
-  <img src="[https://raw.githubusercontent.com/272006Sakshi/your-repository-name/main/github-header-image.png](https://raw.githubusercontent.com/272006Sakshi/272006Sakshi/main/github-header-image.png
-)" alt="Banner Image" />
+  <img src="https://raw.githubusercontent.com/272006Sakshi/272006Sakshi/main/github-header-image.png
+" alt="Banner Image" />
 </p>
 
 ---
