@@ -2,7 +2,6 @@
   <img src="https://user-images.githubusercontent.com/74038190/212750233-feda1a35-5f1a-4cdb-8d3a-3d8b3fce4a9a.png" width="120" alt="Creative Coding Logo">
 </p>
 
-![banner](https://raw.githubusercontent.com/272006Sakshi/272006Sakshi/main/github-header-image.png)
 
 <h1 align="center">Namaste 🙏, I'm Sakshi Kumari</h1>
 
