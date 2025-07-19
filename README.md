@@ -1,6 +1,4 @@
-![banner](https://raw.githubusercontent.com/272006Sakshi/272006Sakshi/main/github-header-image(2).png)
-
-
+![banner](https://raw.githubusercontent.com/272006Sakshi/272006Sakshi/main/github-header-image-2.png)
 
 <h1 align="center">Namaste 🙏, I'm Sakshi Kumari</h1>
 
