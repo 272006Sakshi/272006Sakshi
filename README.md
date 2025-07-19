@@ -7,7 +7,7 @@
 - 🎓 I’m a **second year Computer Science student** at **IIT Patna**.
 - 📚 I’m learning **Machine Learning**, **Data Structures**, and **Algorithms**.
 - 🤖 Passionate about **AI, Tech Innovation, and Building Projects**.
-- 📫 Reach me at: [sakshi_2312res563@iitp.ac.in](mailto:sakshi_2312res563@iitp.ac.in)
+- 📫 Reach me at: [sakshi_2312res563@iitp.ac.in](mailto:sakshimtp461@gmail.com)
 - ⚡ Fun Fact: **It's GPT era!**
 
 
