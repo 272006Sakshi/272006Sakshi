@@ -13,7 +13,7 @@
 
 <h3 align="left">🌐 Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/sakshi-kumari-0064a5296/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>
+<a href="https://www.linkedin.com/in/sakshi-kumari-b064a5296/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>
 <a href="https://www.instagram.com/sak_shiii27/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram"/></a>
 <a href="https://leetcode.com/u/Sak_shi__/" target="blank"><img align="center" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="leetcode"/></a>
 </p>
