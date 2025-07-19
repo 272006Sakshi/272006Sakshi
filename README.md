@@ -4,14 +4,11 @@
 
 **272006Sakshi/272006Sakshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+
 - 🔭i'm second year student at Indian Institute of Technology Patna.
-- 🌱i'm currently learning ML & Data Structure and Algorithm.
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 🌱i'm currently learning **ML** & **Data Structure and Algorithm**.
 - 💬 Ask me about ...
-- 📫 How to reach me: email:- sakshimtp461@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 How to reach me: email:- sakshi_2312res563@iitp.ac.in
+- ⚡ Fun fact: it's **GPT** era
   
 
