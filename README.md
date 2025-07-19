@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋, I'm Sakshi Kumari</h1>
 
 <p align="center">
-  <img src="C:\Users\HP\Downloads\github-header-image.png" alt="Banner Image" />
+  <img src="github-header-image (1).png" alt="Banner Image" />
 </p>
 
 ---
