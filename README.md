@@ -5,7 +5,7 @@
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 
 - 🎓 I’m a **second year Computer Science student** at **IIT Patna**.
-- 📚 I’m learning **Machine Learning**, **Data Structures**, and **Algorithms**.
+- 📚 I’m learning **ML**, **Data Structures**, and **Algorithms**.
 - 🤖 Passionate about **AI, Tech Innovation, and Building Projects**.
 - 📫 Reach me at: [sakshimtp461@gmail.com](mailto:sakshimtp461@gmail.com)
 - ⚡ Fun Fact: **It's GPT era!**
