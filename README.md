@@ -1,39 +1,47 @@
-<h1 align="center">Hey 👋, I'm Sakshi Kumari</h1>
+![logo](https://raw.githubusercontent.com/272006Sakshi/272006Sakshi/main/github-header-image.png)
 
+<h1 align="center">Namaste 🙏, I'm Sakshi Kumari</h1>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/272006Sakshi/main/github-header-image.png" alt="Banner Image" />
-</p>
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 
----
-
-- 🎓 I'm a **second year student** at **Indian Institute of Technology Patna**.
-- 🌱 I'm currently learning **Machine Learning**, **Data Structures**, and **Algorithms**.
-- 💬 Ask me about **ML, AI, and Coding**.
-- 📫 How to reach me: [sakshi_2312res563@iitp.ac.in](mailto:sakshi_2312res563@iitp.ac.in)
-- ⚡ Fun fact: *It's GPT era!*
+- 🎓 I’m a **second year Computer Science student** at **IIT Patna**.
+- 📚 I’m learning **Machine Learning**, **Data Structures**, and **Algorithms**.
+- 🤖 Passionate about **AI, Tech Innovation, and Building Projects**.
+- 📫 Reach me at: [sakshi_2312res563@iitp.ac.in](mailto:sakshi_2312res563@iitp.ac.in)
+- ⚡ Fun Fact: **It's GPT era!**
 
 ---
 
-<h3>📲 Connect with me:</h3>
-
+<h3 align="left">🌐 Connect with me:</h3>
 <p align="left">
-  
-  <a href="https://www.linkedin.com/in/sakshi-kumari-b064a5296/" target="blank">
-    <img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
-  </a>
-  
+<a href="https://www.linkedin.com/in/sakshi-kumari-0064a5296/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>
+<a href="https://www.instagram.com/sak_shiii27/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram"/></a>
+<a href="https://leetcode.com/u/Sak_shi__/" target="blank"><img align="center" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="leetcode"/></a>
 </p>
 
 ---
 
-<p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHU3dHd5YzQ3b3Z4YWJ1bnF1aWRkMnY0dTVhbG42eWFndGQyM3V3MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xaO6TmgQmKEQ4516sE/giphy.gif" alt="Programming" width="400"/>
+<h3 align="left">💻 Languages and Tools:</h3>
+<p align="left">
+<a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
+<a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
+<a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
+<a href="https://jupyter.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/></a>
+<a href="https://pandas.pydata.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/></a>
+<a href="https://scikit-learn.org/" target="_blank"><img src="https://raw.githubusercontent.com/scikit-learn/scikit-learn/main/doc/logos/scikit-learn-logo-small.png" alt="scikit-learn" width="40" height="40"/></a>
+<a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
 </p>
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=272006Sakshi&show_icons=true&theme=tokyonight)
+<h3 align="left">📊 GitHub Stats:</h3>
 
-  
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=272006Sakshi&layout=compact&theme=tokyonight" alt="top-langs"/></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=272006Sakshi&show_icons=true&theme=tokyonight" alt="sakshi-stats"/></p>
+
+---
+
 
