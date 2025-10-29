@@ -8,7 +8,7 @@
 - 📚 I’m learning **ML**, **Data Structures**, and **Algorithms**.
 - 🤖 Passionate about **AI, Tech Innovation, and Building Projects**.
 - 📫 Reach me at: [sakshimtp461@gmail.com](mailto:sakshimtp461@gmail.com)
-- ⚡ Fun Fact: **It's GPT era!**
+- ⚡ Fun Fact: **It's GPT era!** 
   
 
 <h3 align="left">🌐 Connect with me:</h3>
