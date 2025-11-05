@@ -17,8 +17,7 @@
 <a href="mailto:sakshi_2312res563@iitp.ac.in" target="blank"> 
   <img align="center" src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="email"/>
 </a>
-  
-<a href="https://www.instagram.com/sak_shiii27/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram"/></a>
+
 <a href="https://leetcode.com/u/Sak_shi__/" target="blank"><img align="center" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="leetcode"/></a>
 </p>
 
