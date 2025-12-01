@@ -43,7 +43,9 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=272006Sakshi&layout=compact&theme=tokyonight" alt="top-langs"/></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=272006Sakshi&show_icons=true&theme=tokyonight" alt="sakshi-stats"/></p>
+<p>
+  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=272006Sakshi&show_icons=true&theme=tokyonight" />
+</p>
 
 
 
