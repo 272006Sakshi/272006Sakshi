@@ -38,15 +38,17 @@
 
 </p>
 
+![Sakshi's GitHub stats](https://readme-stats.clckblog.space/api?username=272006Sakshi&show_icons=true&theme=tokyonight)
 
-<h3 align="left">📊 GitHub Stats:</h3>
+![Top Languages](https://readme-stats.clckblog.space/api/top-langs/?username=272006Sakshi&layout=compact&theme=tokyonight)
 
-## 📊 GitHub Stats:
+<!-- <h3 align="left">📊 GitHub Stats:</h3>
+
 
 ![Sakshi's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=272006Sakshi&show_icons=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=272006Sakshi&layout=compact&theme=tokyonight)
-
+ -->
 
 <!-- <p>
   <img align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=272006Sakshi&layout=compact&theme=tokyonight" />
