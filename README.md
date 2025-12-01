@@ -38,9 +38,10 @@
 
 </p>
 
-![Sakshi's GitHub stats](https://readme-stats.clckblog.space/api?username=272006Sakshi&show_icons=true&theme=tokyonight)
+![Sakshi's GitHub stats](https://github-readme-stats.vercel.app/api?username=272006Sakshi&show_icons=true&theme=tokyonight&cache_seconds=1800)
 
-![Top Languages](https://readme-stats.clckblog.space/api/top-langs/?username=272006Sakshi&layout=compact&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=272006Sakshi&layout=compact&theme=tokyonight&cache_seconds=1800)
 
 <!-- <h3 align="left">📊 GitHub Stats:</h3>
 
