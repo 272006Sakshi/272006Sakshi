@@ -38,11 +38,6 @@
 
 </p>
 
-![Sakshi's GitHub stats](https://github-readme-stats.vercel.app/api?username=272006Sakshi&show_icons=true&theme=tokyonight&cache_seconds=1800)
-
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=272006Sakshi&layout=compact&theme=tokyonight&cache_seconds=1800)
-
 <!-- <h3 align="left">📊 GitHub Stats:</h3>
 
 
@@ -51,12 +46,11 @@
 ![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=272006Sakshi&layout=compact&theme=tokyonight)
  -->
 
-<!-- <p>
+<p>
   <img align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=272006Sakshi&layout=compact&theme=tokyonight" />
 </p>
 <p>
   <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=272006Sakshi&show_icons=true&theme=tokyonight" />
-</p> -->
-
+</p> 
 
 
