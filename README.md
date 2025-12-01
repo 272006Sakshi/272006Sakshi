@@ -41,8 +41,9 @@
 
 <h3 align="left">📊 GitHub Stats:</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=272006Sakshi&layout=compact&theme=tokyonight" alt="top-langs"/></p>
-
+<p>
+  <img align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=272006Sakshi&layout=compact&theme=tokyonight" />
+</p>
 <p>
   <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=272006Sakshi&show_icons=true&theme=tokyonight" />
 </p>
