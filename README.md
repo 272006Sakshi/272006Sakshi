@@ -31,8 +31,8 @@
 <td align="center"><img src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" height="60"/><br><b>C++</b></td>
 <td align="center"><img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" height="60"/><br><b>Python</b></td>
 <td align="center"><img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" height="60"/><br><b>Jupyter Notebook</b></td>
-<td align="center"><img src="https://profilinator.rishav.dev/skills-assets/html5-original.svg" height="60"/><br><b>HTML</b></td>
-<td align="center"><img src="https://profilinator.rishav.dev/skills-assets/css3-original.svg" height="60"/><br><b>CSS</b></td>
+<td align="center"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></td>
+<td align="center"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></td>
 </tr>
 
 <tr>
