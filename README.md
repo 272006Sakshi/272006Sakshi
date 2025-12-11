@@ -27,21 +27,22 @@
 
 <table>
 <tr>
-<td align="center"><img src="https://profilinator.rishav.dev/skills-assets/c-original.svg" height="60"/><br><b>C</b></td>
-<td align="center"><img src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" height="60"/><br><b>C++</b></td>
-<td align="center"><img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" height="60"/><br><b>Python</b></td>
-<td align="center"><img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" height="60"/><br><b>Jupyter Notebook</b></td>
-<td><img src="https://www.oxfordwebstudio.com/user/pages/06.da-li-znate/sta-je-html/sta-je-html.jpg" width=130px></td>
-<td><img src="https://play-lh.googleusercontent.com/TxjQBGYHvMJsBX5dCvxQ4R-_4N-XrVhW6-p7D7TXanXKZMD8L-UkeMBWO1dtubGVNqU" width=130px></td>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" height="60"/><br><b>C</b></td>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" height="60"/><br><b>C++</b></td>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="60"/><br><b>Python</b></td>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" height="60"/><br><b>Jupyter</b></td>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="60"/><br><b>HTML</b></td>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="60"/><br><b>CSS</b></td>
 </tr>
 
 <tr>
-<td align="center"><img src="https://profilinator.rishav.dev/skills-assets/pandas-original.svg" height="60"/><br><b>Pandas</b></td>
-<td align="center"><img src="https://profilinator.rishav.dev/skills-assets/numpy-original.svg" height="60"/><br><b>NumPy</b></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=sklearn" height="60"/><br><b>Scikit-Learn</b></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=vscode" height="60"/><br><b>VS Code</b></td>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" height="60"/><br><b>Pandas</b></td>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" height="60"/><br><b>NumPy</b></td>
+<td align="center"><img src="https://raw.githubusercontent.com/scikit-learn/scikit-learn/main/doc/logos/scikit-learn-logo-notext.svg" height="60"/><br><b>Scikit-Learn</b></td>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" height="60"/><br><b>VS Code</b></td>
 </tr>
 </table>
+
 
 <h3 align="left">🌐 Connect with me:</h3>
 <p align="left">
