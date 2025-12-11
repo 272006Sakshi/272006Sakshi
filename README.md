@@ -54,7 +54,8 @@
   <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=272006Sakshi&show_icons=true&theme=tokyonight" />
 </p>  -->
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=272006Sakshi&show_icons=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=272006Sakshi&theme=radical)
+
 
 ![Sakshi's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=272006Sakshi&theme=tokyo-night)
 
