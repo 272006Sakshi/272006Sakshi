@@ -31,8 +31,8 @@
 <td align="center"><img src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" height="60"/><br><b>C++</b></td>
 <td align="center"><img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" height="60"/><br><b>Python</b></td>
 <td align="center"><img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" height="60"/><br><b>Jupyter Notebook</b></td>
-<td align="center"><img src="https://profilinator.rishav.dev/skills-assets/html5-original.svg" height="60"/><br><b>HTML</b></td>
-<td align="center"><img src="https://profilinator.rishav.dev/skills-assets/css3-original.svg" height="60"/><br><b>CSS</b></td>
+<td><img src="https://www.oxfordwebstudio.com/user/pages/06.da-li-znate/sta-je-html/sta-je-html.jpg" width=130px></td>
+<td><img src="https://play-lh.googleusercontent.com/TxjQBGYHvMJsBX5dCvxQ4R-_4N-XrVhW6-p7D7TXanXKZMD8L-UkeMBWO1dtubGVNqU" width=130px></td>
 </tr>
 
 <tr>
