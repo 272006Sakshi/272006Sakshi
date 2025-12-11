@@ -2,7 +2,7 @@
 
 <h1 align="center">Namaste 🙏, I'm Sakshi Kumari</h1>
 
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
+<!-- <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif"> -->
 
 - 🎓 I’m a **3rd year Computer Science student** at **IIT Patna**.
 - 📚 I’m learning **AIML**, **Data Structures**, and **Algorithms**.
