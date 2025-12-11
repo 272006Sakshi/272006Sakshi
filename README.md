@@ -56,7 +56,8 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=272006Sakshi&show_icons=true)
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=272006Sakshi)
+![Sakshi's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=272006Sakshi&theme=tokyo-night)
+
 
 
 
