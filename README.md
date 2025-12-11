@@ -23,8 +23,25 @@
 
 </div>
 
-  
-  
+## 🛠 Skills & Tools
+
+<table>
+<tr>
+<td align="center"><img src="https://profilinator.rishav.dev/skills-assets/c-original.svg" height="60"/><br><b>C</b></td>
+<td align="center"><img src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" height="60"/><br><b>C++</b></td>
+<td align="center"><img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" height="60"/><br><b>Python</b></td>
+<td align="center"><img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" height="60"/><br><b>Jupyter Notebook</b></td>
+<td align="center"><img src="https://profilinator.rishav.dev/skills-assets/html5-original.svg" height="60"/><br><b>HTML</b></td>
+<td align="center"><img src="https://profilinator.rishav.dev/skills-assets/css3-original.svg" height="60"/><br><b>CSS</b></td>
+</tr>
+
+<tr>
+<td align="center"><img src="https://profilinator.rishav.dev/skills-assets/pandas-original.svg" height="60"/><br><b>Pandas</b></td>
+<td align="center"><img src="https://profilinator.rishav.dev/skills-assets/numpy-original.svg" height="60"/><br><b>NumPy</b></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=sklearn" height="60"/><br><b>Scikit-Learn</b></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=vscode" height="60"/><br><b>VS Code</b></td>
+</tr>
+</table>
 
 <h3 align="left">🌐 Connect with me:</h3>
 <p align="left">
