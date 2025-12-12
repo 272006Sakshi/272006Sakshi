@@ -16,7 +16,7 @@
 
 <img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-6A5ACD?style=for-the-badge&logo=leetcode&logoColor=white" />
 <img src="https://img.shields.io/badge/Machine%20Learning-4682B4?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL-3E8E41?style=for-the-badge&logo=mysql&logoColor=white" />
+<!-- <img src="https://img.shields.io/badge/SQL-3E8E41?style=for-the-badge&logo=mysql&logoColor=white" /> -->
 <img src="https://img.shields.io/badge/AI-1E90FF?style=for-the-badge&logo=tensorflow&logoColor=white" />
 <img src="https://img.shields.io/badge/NLP-FF6F91?style=for-the-badge&logo=openai&logoColor=white" />
 <img src="https://img.shields.io/badge/Data%20Science-F7931E?style=for-the-badge&logo=python&logoColor=white" />
