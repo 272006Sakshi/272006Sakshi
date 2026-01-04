@@ -57,10 +57,12 @@
 <a href="https://leetcode.com/u/Sak_shi__/" target="blank"><img align="center" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="leetcode"/></a>
 </p>
 
+## 🔝 Stats + Top Contributed Repo
+![](https://github-readme-stats.vercel.app/api?username=272006Sakshi&theme=shades-of-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
+![](https://github-contributor-stats.vercel.app/api?username=272006Sakshi&limit=5&theme=shades-of-purple&combine_all_yearly_contributions=true&layout=compact) 
 
 
-
-![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=272006Sakshi&show_icons=true)
+<!-- ![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=272006Sakshi&show_icons=true)-->
 
 
 <!-- ![Sakshi's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=272006Sakshi&theme=tokyo-night&custom_title=Sakshi's%20Contribution%20Graph)-->
