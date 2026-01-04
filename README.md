@@ -1,7 +1,10 @@
 <!-- ![banner](https://raw.githubusercontent.com/272006Sakshi/272006Sakshi/main/github-header-image-2.png) -->
 
 <!-- <h1 align="center">Namaste 🙏, I'm Sakshi Kumari</h1> -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&duration=3500&pause=2000&color=1255FF&center=true&vCenter=true&random=false&width=435&lines=Hi!+I+am+Sakshi+Kumari" alt="Typing SVG" /></a>
+<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&duration=3500&pause=2000&color=1255FF&center=true&vCenter=true&width=700&lines=Hi!+I+am+Sakshi+Kumari" alt="Typing SVG" /></a></p>
+
+
+
 
 <!-- <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif"> -->
 
