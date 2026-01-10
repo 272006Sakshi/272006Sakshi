@@ -1,18 +1,39 @@
-<!-- ![banner](https://raw.githubusercontent.com/272006Sakshi/272006Sakshi/main/github-header-image-2.png) -->
-
-<!-- <h1 align="center">Namaste 🙏, I'm Sakshi Kumari</h1> -->
 <p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&duration=3500&pause=2000&color=1255FF&center=true&vCenter=true&width=700&lines=Namaste!+I+am+Sakshi+Kumari" alt="Typing SVG" /></a></p>
 
-
-
-
-<!-- <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif"> -->
-
+<!--
 - 🎓 I’m a **3rd year Computer Science student** at **IIT Patna**.
 - 📚 I’m learning **AIML**, **Data Structures**, and **Algorithms**.
 - 🤖 Passionate about **AI, Tech Innovation, and Building Projects**.
 - 📧 Email: [sakshi.mtp461@gmail.com](mailto:sakshi.mtp461@gmail.com)
-- ⚡ Fun Fact: **It's GPT era!**
+- ⚡ Fun Fact: **It's GPT era!** -->
+<div align="center">
+<h2 align="center"> 💻 About Me </h2>
+
+</div>
+
+<details>
+  - 🎓 I’m a **3rd year Computer Science student** at **IIT Patna**.
+  📚 I’m learning **AIML**, **Data Structures**, and **Algorithms**.
+</details>
+
+<!-- <details>
+  <summary>🎓 Achievements</summary>
+	
+  - **Google Cloud Arcade Facilitator Program 2025**
+    
+</details> -->
+
+<details>
+  <summary>🧑‍💻 My Coding Journey</summary>
+	
+  - **200+ days** of sharing insights on DSA
+    
+</details>
+
+<details>
+  <summary>🌍 Outside Tech</summary>
+  - I enjoy yoga, reading books and quotes, and capturing nature.
+</details>
 
 ## 🛠️ Tech Stack
 
@@ -56,6 +77,9 @@
 </a>
 <a href="https://leetcode.com/u/Sak_shi__/" target="blank"><img align="center" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="leetcode"/></a>
 </p>
+<h4 align="center"> 📩 Get in touch: <a href="mailto:sakshimtp461@gmail.com">sakshimtp461@gmail.com</a> </h4>
+
+
 
 <!--## 🔝 Stats + Top Contributed Repo
 ![](https://github-readme-stats.vercel.app/api?username=272006Sakshi&theme=shades-of-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
