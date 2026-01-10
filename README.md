@@ -80,7 +80,18 @@
 
 
 
-![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=272006Sakshi&show_icons=true)
+<!-- ![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=272006Sakshi&show_icons=true) -->
+
+<h2 align="center"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0b335028-1d3d-4ee5-b5b3-a373d499be7e" width="45"> GitHub Stats </h2>
+<div align="center" width="50%">
+  <p>
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=neeru24&theme=dark&fire=FF5E5E&ring=FFB380&currStreakNum=FF5E5E" alt="Neeru's GitHub Streak" /> 
+  </p>
+</div>
+
+<!-- Dropdown for More Stats -->
+<div align="center" style="max-width: 600px; margin: auto;">
+<details>
 
 
 ![](https://komarev.com/ghpvc/?username=272006Sakshi&color=blue)
