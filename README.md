@@ -12,7 +12,7 @@
 </div>
 
   - 🎓 I’m a **3rd year Computer Science student** at **IIT Patna**.
-  📚 I’m learning **AIML**, **Data Structures**, and **Algorithms**.
+  - 📚 I’m learning **AIML**, **Data Structures**, and **Algorithms**.
 
 <!-- <details>
   <summary>🎓 Achievements</summary>
