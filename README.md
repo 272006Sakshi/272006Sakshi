@@ -75,7 +75,7 @@
 </a>
 <a href="https://leetcode.com/u/Sak_shi__/" target="blank"><img align="center" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="leetcode"/></a>
 </p>
-<h4> 📩 Get in touch: <a href="mailto:sakshimtp461@gmail.com">sakshimtp461@gmail.com</a> </h4>
+<h4 align="left"> 📩 Get in touch: <a href="mailto:sakshimtp461@gmail.com">sakshimtp461@gmail.com</a> </h4>
 
 
 
