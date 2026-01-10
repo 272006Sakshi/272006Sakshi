@@ -7,7 +7,7 @@
 - 📧 Email: [sakshi.mtp461@gmail.com](mailto:sakshi.mtp461@gmail.com)
 - ⚡ Fun Fact: **It's GPT era!** -->
 <div align="center">
-<h2 align="center"> 💻 About Me </h2>
+<h2> 💻 About Me </h2>
 
 </div>
 
