@@ -30,7 +30,7 @@
 
 <details>
   <summary>🌍 Outside Tech</summary>
-  - I enjoy yoga, reading books and quotes, and capturing nature.
+  - I enjoy yoga, reading books, quotes, and capturing nature.
 </details>
 
 ## 🛠️ Tech Stack
