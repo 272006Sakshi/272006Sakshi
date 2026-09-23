@@ -11,12 +11,12 @@ I enjoy working with data end-to-end: cleaning messy datasets, running statistic
 
 ---
 
-## 🛠️ Tech Stack
+## 💻 Tech Stack
 Python | SQL | Excel | Power BI | Pandas | NumPy | Scikit-Learn | Matplotlib | C++ | C
 
 ---
 
-## 🧰 Tools
+## 🔨 Tools
 Jupyter | VS Code | PostgreSQL | MySQL | Git | GitHub
 
 ---
