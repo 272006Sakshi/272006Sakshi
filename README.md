@@ -1,93 +1,43 @@
-<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&duration=3500&pause=2000&color=1255FF&center=true&vCenter=true&width=700&lines=Namaste!+I+am+Sakshi+Kumari" alt="Typing SVG" /></a></p>
+# Hi, I'm Sakshi Kumari </a> 👋
 
-<!--
-- 🎓 I’m a **3rd year Computer Science student** at **IIT Patna**.
-- 📚 I’m learning **AIML**, **Data Structures**, and **Algorithms**.
-- 🤖 Passionate about **AI, Tech Innovation, and Building Projects**.
-- 📧 Email: [sakshi.mtp461@gmail.com](mailto:sakshi.mtp461@gmail.com)
-- ⚡ Fun Fact: **It's GPT era!** -->
-<div align="center">
-<h2> 💻 About Me </h2>
+**Data Analyst · Aspiring AIML Engineer · DSA Enthusiast**
 
-</div>
+---
 
-  - 🎓 I’m a **3rd year Computer Science student** at **IIT Patna**.
-  - 📚 I’m learning **AIML**, **Data Structures**, and **Algorithms**.
+##  💫 About Me
+I'm a Computer Science student at IIT Patna with a growing focus on **data analytics, machine learning, and turning raw numbers into decisions**.
 
-<!-- <details>
-  <summary>🎓 Achievements</summary>
-	
-  - **Google Cloud Arcade Facilitator Program 2025**
-    
-</details> -->
+I enjoy working with data end-to-end: cleaning messy datasets, running statistical analysis, and building dashboards that actually help people make choices. Currently sharpening my skills in **SQL, Power BI, Excel, and Python**, alongside a long-running habit of solving DSA problems.
 
-<details>
-  <summary>🧑‍💻 My Coding Journey</summary>
-	
-  - **200+ days** of sharing insights on DSA
-    
-</details>
-
-<details>
-  <summary>🌍 Outside Tech</summary>
-  - I enjoy yoga, reading books, quotes, and capturing nature.
-</details>
+---
 
 ## 🛠️ Tech Stack
+Python | SQL | Excel | Power BI | Pandas | NumPy | Scikit-Learn | Matplotlib | C++ | C
 
-<div align="left">
+---
 
-<img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-6A5ACD?style=for-the-badge&logo=leetcode&logoColor=white" />
-<img src="https://img.shields.io/badge/Machine%20Learning-4682B4?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-<!-- <img src="https://img.shields.io/badge/SQL-3E8E41?style=for-the-badge&logo=mysql&logoColor=white" /> -->
-<img src="https://img.shields.io/badge/AI-1E90FF?style=for-the-badge&logo=tensorflow&logoColor=white" />
-<img src="https://img.shields.io/badge/NLP-FF6F91?style=for-the-badge&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/Data%20Science-F7931E?style=for-the-badge&logo=python&logoColor=white" />
+## 🧰 Tools
+Jupyter | VS Code | PostgreSQL | MySQL | Git | GitHub
 
-</div>
+---
 
-## 🛠 Skills & Tools
+## 🎯 Currently Focused On
 
-<table>
-<tr>
-<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" height="60"/><br><b>C</b></td>
-<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" height="60"/><br><b>C++</b></td>
-<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="60"/><br><b>Python</b></td>
-<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" height="60"/><br><b>Jupyter</b></td>
-<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="60"/><br><b>HTML</b></td>
-<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="60"/><br><b>CSS</b></td>
-</tr>
+* Strengthening SQL and Python for real-world data analysis
+* Building practical Power BI dashboards
+* Improving data cleaning, exploratory data analysis, and visualization
+* Developing stronger business problem-solving skills
+* Building projects that demonstrate practical analytical thinking
 
-<tr>
-<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" height="60"/><br><b>Pandas</b></td>
-<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" height="60"/><br><b>NumPy</b></td>
-<td align="center"><img src="https://raw.githubusercontent.com/scikit-learn/scikit-learn/main/doc/logos/scikit-learn-logo-notext.svg" height="60"/><br><b>Scikit-Learn</b></td>
-<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" height="60"/><br><b>VS Code</b></td>
-</tr>
-</table>
+---
 
+## 🌐 Connect with me
+- 📧 **Email:** sakshi.mtp461@gmail.com
+- 💼 **LinkedIn:** https://www.linkedin.com/in/sakshi-kumari-b064a5296/
+- 🏅 **Kaggle:** https://www.kaggle.com/sakshikumari27
+- 🔢 **LeetCode:** https://leetcode.com/u/Sak_shi__/
 
-<h3 align="left">🌐 Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/sakshi-kumari-b064a5296/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>
-<a href="https://www.kaggle.com/sakshikumari27" target="blank">
-  <img align="center" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="kaggle"/>
-</a>
-<a href="https://leetcode.com/u/Sak_shi__/" target="blank"><img align="center" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="leetcode"/></a>
-</p>
-<h4 align="left"> 📩 Get in touch: <a href="mailto:sakshimtp461@gmail.com">sakshimtp461@gmail.com</a> </h4>
+---
 
-
-
-
-![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=272006Sakshi&show_icons=true)
-
-
-
-![](https://komarev.com/ghpvc/?username=272006Sakshi&color=blue)
-
-
-
-
-
-
+## ⚡ Fact
+> *"Data doesn't speak for itself — it speaks through the person who asks it the right questions."*
