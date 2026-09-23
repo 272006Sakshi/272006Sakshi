@@ -41,3 +41,6 @@ Jupyter | VS Code | PostgreSQL | MySQL | Git | GitHub
 
 ## ⚡ Fact
 > *"Data doesn't speak for itself — it speaks through the person who asks it the right questions."*
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=272006Sakshi&label=Profile%20views&color=0e75b6&style=flat" alt="sakshi" /> </p>
+
